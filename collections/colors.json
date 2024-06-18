@@ -1,0 +1,1604 @@
+[
+    {
+        "_id": -1,
+        "name": "[Unknown]",
+        "rgb": "0033B2",
+        "isTransparent": false
+    },
+    {
+        "_id": 0,
+        "name": "Black",
+        "rgb": "05131D",
+        "isTransparent": false
+    },
+    {
+        "_id": 1,
+        "name": "Blue",
+        "rgb": "0055BF",
+        "isTransparent": false
+    },
+    {
+        "_id": 2,
+        "name": "Green",
+        "rgb": "237841",
+        "isTransparent": false
+    },
+    {
+        "_id": 3,
+        "name": "Dark Turquoise",
+        "rgb": "008F9B",
+        "isTransparent": false
+    },
+    {
+        "_id": 4,
+        "name": "Red",
+        "rgb": "C91A09",
+        "isTransparent": false
+    },
+    {
+        "_id": 5,
+        "name": "Dark Pink",
+        "rgb": "C870A0",
+        "isTransparent": false
+    },
+    {
+        "_id": 6,
+        "name": "Brown",
+        "rgb": "583927",
+        "isTransparent": false
+    },
+    {
+        "_id": 7,
+        "name": "Light Gray",
+        "rgb": "9BA19D",
+        "isTransparent": false
+    },
+    {
+        "_id": 8,
+        "name": "Dark Gray",
+        "rgb": "6D6E5C",
+        "isTransparent": false
+    },
+    {
+        "_id": 9,
+        "name": "Light Blue",
+        "rgb": "B4D2E3",
+        "isTransparent": false
+    },
+    {
+        "_id": 10,
+        "name": "Bright Green",
+        "rgb": "4B9F4A",
+        "isTransparent": false
+    },
+    {
+        "_id": 11,
+        "name": "Light Turquoise",
+        "rgb": "55A5AF",
+        "isTransparent": false
+    },
+    {
+        "_id": 12,
+        "name": "Salmon",
+        "rgb": "F2705E",
+        "isTransparent": false
+    },
+    {
+        "_id": 13,
+        "name": "Pink",
+        "rgb": "FC97AC",
+        "isTransparent": false
+    },
+    {
+        "_id": 14,
+        "name": "Yellow",
+        "rgb": "F2CD37",
+        "isTransparent": false
+    },
+    {
+        "_id": 15,
+        "name": "White",
+        "rgb": "FFFFFF",
+        "isTransparent": false
+    },
+    {
+        "_id": 17,
+        "name": "Light Green",
+        "rgb": "C2DAB8",
+        "isTransparent": false
+    },
+    {
+        "_id": 18,
+        "name": "Light Yellow",
+        "rgb": "FBE696",
+        "isTransparent": false
+    },
+    {
+        "_id": 19,
+        "name": "Tan",
+        "rgb": "E4CD9E",
+        "isTransparent": false
+    },
+    {
+        "_id": 20,
+        "name": "Light Violet",
+        "rgb": "C9CAE2",
+        "isTransparent": false
+    },
+    {
+        "_id": 21,
+        "name": "Glow In Dark Opaque",
+        "rgb": "D4D5C9",
+        "isTransparent": false
+    },
+    {
+        "_id": 22,
+        "name": "Purple",
+        "rgb": "81007B",
+        "isTransparent": false
+    },
+    {
+        "_id": 23,
+        "name": "Dark Blue-Violet",
+        "rgb": "2032B0",
+        "isTransparent": false
+    },
+    {
+        "_id": 25,
+        "name": "Orange",
+        "rgb": "FE8A18",
+        "isTransparent": false
+    },
+    {
+        "_id": 26,
+        "name": "Magenta",
+        "rgb": "923978",
+        "isTransparent": false
+    },
+    {
+        "_id": 27,
+        "name": "Lime",
+        "rgb": "BBE90B",
+        "isTransparent": false
+    },
+    {
+        "_id": 28,
+        "name": "Dark Tan",
+        "rgb": "958A73",
+        "isTransparent": false
+    },
+    {
+        "_id": 29,
+        "name": "Bright Pink",
+        "rgb": "E4ADC8",
+        "isTransparent": false
+    },
+    {
+        "_id": 30,
+        "name": "Medium Lavender",
+        "rgb": "AC78BA",
+        "isTransparent": false
+    },
+    {
+        "_id": 31,
+        "name": "Lavender",
+        "rgb": "E1D5ED",
+        "isTransparent": false
+    },
+    {
+        "_id": 32,
+        "name": "Trans-Black IR Lens",
+        "rgb": "635F52",
+        "isTransparent": true
+    },
+    {
+        "_id": 33,
+        "name": "Trans-Dark Blue",
+        "rgb": "0020A0",
+        "isTransparent": true
+    },
+    {
+        "_id": 34,
+        "name": "Trans-Green",
+        "rgb": "84B68D",
+        "isTransparent": true
+    },
+    {
+        "_id": 35,
+        "name": "Trans-Bright Green",
+        "rgb": "D9E4A7",
+        "isTransparent": true
+    },
+    {
+        "_id": 36,
+        "name": "Trans-Red",
+        "rgb": "C91A09",
+        "isTransparent": true
+    },
+    {
+        "_id": 40,
+        "name": "Trans-Brown",
+        "rgb": "635F52",
+        "isTransparent": true
+    },
+    {
+        "_id": 41,
+        "name": "Trans-Light Blue",
+        "rgb": "AEEFEC",
+        "isTransparent": true
+    },
+    {
+        "_id": 42,
+        "name": "Trans-Neon Green",
+        "rgb": "F8F184",
+        "isTransparent": true
+    },
+    {
+        "_id": 43,
+        "name": "Trans-Very Lt Blue",
+        "rgb": "C1DFF0",
+        "isTransparent": true
+    },
+    {
+        "_id": 45,
+        "name": "Trans-Dark Pink",
+        "rgb": "DF6695",
+        "isTransparent": true
+    },
+    {
+        "_id": 46,
+        "name": "Trans-Yellow",
+        "rgb": "F5CD2F",
+        "isTransparent": true
+    },
+    {
+        "_id": 47,
+        "name": "Trans-Clear",
+        "rgb": "FCFCFC",
+        "isTransparent": true
+    },
+    {
+        "_id": 52,
+        "name": "Trans-Purple",
+        "rgb": "A5A5CB",
+        "isTransparent": true
+    },
+    {
+        "_id": 54,
+        "name": "Trans-Neon Yellow",
+        "rgb": "DAB000",
+        "isTransparent": true
+    },
+    {
+        "_id": 57,
+        "name": "Trans-Neon Orange",
+        "rgb": "FF800D",
+        "isTransparent": true
+    },
+    {
+        "_id": 60,
+        "name": "Chrome Antique Brass",
+        "rgb": "645A4C",
+        "isTransparent": false
+    },
+    {
+        "_id": 61,
+        "name": "Chrome Blue",
+        "rgb": "6C96BF",
+        "isTransparent": false
+    },
+    {
+        "_id": 62,
+        "name": "Chrome Green",
+        "rgb": "3CB371",
+        "isTransparent": false
+    },
+    {
+        "_id": 63,
+        "name": "Chrome Pink",
+        "rgb": "AA4D8E",
+        "isTransparent": false
+    },
+    {
+        "_id": 64,
+        "name": "Chrome Black",
+        "rgb": "1B2A34",
+        "isTransparent": false
+    },
+    {
+        "_id": 68,
+        "name": "Very Light Orange",
+        "rgb": "F3CF9B",
+        "isTransparent": false
+    },
+    {
+        "_id": 69,
+        "name": "Light Purple",
+        "rgb": "CD6298",
+        "isTransparent": false
+    },
+    {
+        "_id": 70,
+        "name": "Reddish Brown",
+        "rgb": "582A12",
+        "isTransparent": false
+    },
+    {
+        "_id": 71,
+        "name": "Light Bluish Gray",
+        "rgb": "A0A5A9",
+        "isTransparent": false
+    },
+    {
+        "_id": 72,
+        "name": "Dark Bluish Gray",
+        "rgb": "6C6E68",
+        "isTransparent": false
+    },
+    {
+        "_id": 73,
+        "name": "Medium Blue",
+        "rgb": "5A93DB",
+        "isTransparent": false
+    },
+    {
+        "_id": 74,
+        "name": "Medium Green",
+        "rgb": "73DCA1",
+        "isTransparent": false
+    },
+    {
+        "_id": 75,
+        "name": "Speckle Black-Copper",
+        "rgb": "05131D",
+        "isTransparent": false
+    },
+    {
+        "_id": 76,
+        "name": "Speckle DBGray-Silver",
+        "rgb": "6C6E68",
+        "isTransparent": false
+    },
+    {
+        "_id": 77,
+        "name": "Light Pink",
+        "rgb": "FECCCF",
+        "isTransparent": false
+    },
+    {
+        "_id": 78,
+        "name": "Light Nougat",
+        "rgb": "F6D7B3",
+        "isTransparent": false
+    },
+    {
+        "_id": 79,
+        "name": "Milky White",
+        "rgb": "FFFFFF",
+        "isTransparent": false
+    },
+    {
+        "_id": 80,
+        "name": "Metallic Silver",
+        "rgb": "A5A9B4",
+        "isTransparent": false
+    },
+    {
+        "_id": 81,
+        "name": "Metallic Green",
+        "rgb": "899B5F",
+        "isTransparent": false
+    },
+    {
+        "_id": 82,
+        "name": "Metallic Gold",
+        "rgb": "DBAC34",
+        "isTransparent": false
+    },
+    {
+        "_id": 84,
+        "name": "Medium Nougat",
+        "rgb": "AA7D55",
+        "isTransparent": false
+    },
+    {
+        "_id": 85,
+        "name": "Dark Purple",
+        "rgb": "3F3691",
+        "isTransparent": false
+    },
+    {
+        "_id": 86,
+        "name": "Light Brown",
+        "rgb": "7C503A",
+        "isTransparent": false
+    },
+    {
+        "_id": 89,
+        "name": "Royal Blue",
+        "rgb": "4C61DB",
+        "isTransparent": false
+    },
+    {
+        "_id": 92,
+        "name": "Nougat",
+        "rgb": "D09168",
+        "isTransparent": false
+    },
+    {
+        "_id": 100,
+        "name": "Light Salmon",
+        "rgb": "FEBABD",
+        "isTransparent": false
+    },
+    {
+        "_id": 110,
+        "name": "Violet",
+        "rgb": "4354A3",
+        "isTransparent": false
+    },
+    {
+        "_id": 112,
+        "name": "Medium Bluish Violet",
+        "rgb": "6874CA",
+        "isTransparent": false
+    },
+    {
+        "_id": 114,
+        "name": "Glitter Trans-Dark Pink",
+        "rgb": "DF6695",
+        "isTransparent": true
+    },
+    {
+        "_id": 115,
+        "name": "Medium Lime",
+        "rgb": "C7D23C",
+        "isTransparent": false
+    },
+    {
+        "_id": 117,
+        "name": "Glitter Trans-Clear",
+        "rgb": "FFFFFF",
+        "isTransparent": true
+    },
+    {
+        "_id": 118,
+        "name": "Aqua",
+        "rgb": "B3D7D1",
+        "isTransparent": false
+    },
+    {
+        "_id": 120,
+        "name": "Light Lime",
+        "rgb": "D9E4A7",
+        "isTransparent": false
+    },
+    {
+        "_id": 125,
+        "name": "Light Orange",
+        "rgb": "F9BA61",
+        "isTransparent": false
+    },
+    {
+        "_id": 129,
+        "name": "Glitter Trans-Purple",
+        "rgb": "A5A5CB",
+        "isTransparent": true
+    },
+    {
+        "_id": 132,
+        "name": "Speckle Black-Silver",
+        "rgb": "05131D",
+        "isTransparent": false
+    },
+    {
+        "_id": 133,
+        "name": "Speckle Black-Gold",
+        "rgb": "05131D",
+        "isTransparent": false
+    },
+    {
+        "_id": 134,
+        "name": "Copper",
+        "rgb": "AE7A59",
+        "isTransparent": false
+    },
+    {
+        "_id": 135,
+        "name": "Pearl Light Gray",
+        "rgb": "9CA3A8",
+        "isTransparent": false
+    },
+    {
+        "_id": 137,
+        "name": "Pearl Sand Blue",
+        "rgb": "7988A1",
+        "isTransparent": false
+    },
+    {
+        "_id": 142,
+        "name": "Pearl Light Gold",
+        "rgb": "DCBC81",
+        "isTransparent": false
+    },
+    {
+        "_id": 143,
+        "name": "Trans-Medium Blue",
+        "rgb": "CFE2F7",
+        "isTransparent": true
+    },
+    {
+        "_id": 148,
+        "name": "Pearl Dark Gray",
+        "rgb": "575857",
+        "isTransparent": false
+    },
+    {
+        "_id": 150,
+        "name": "Pearl Very Light Gray",
+        "rgb": "ABADAC",
+        "isTransparent": false
+    },
+    {
+        "_id": 151,
+        "name": "Very Light Bluish Gray",
+        "rgb": "E6E3E0",
+        "isTransparent": false
+    },
+    {
+        "_id": 158,
+        "name": "Yellowish Green",
+        "rgb": "DFEEA5",
+        "isTransparent": false
+    },
+    {
+        "_id": 178,
+        "name": "Flat Dark Gold",
+        "rgb": "B48455",
+        "isTransparent": false
+    },
+    {
+        "_id": 179,
+        "name": "Flat Silver",
+        "rgb": "898788",
+        "isTransparent": false
+    },
+    {
+        "_id": 182,
+        "name": "Trans-Orange",
+        "rgb": "F08F1C",
+        "isTransparent": true
+    },
+    {
+        "_id": 183,
+        "name": "Pearl White",
+        "rgb": "F2F3F2",
+        "isTransparent": false
+    },
+    {
+        "_id": 191,
+        "name": "Bright Light Orange",
+        "rgb": "F8BB3D",
+        "isTransparent": false
+    },
+    {
+        "_id": 212,
+        "name": "Bright Light Blue",
+        "rgb": "9FC3E9",
+        "isTransparent": false
+    },
+    {
+        "_id": 216,
+        "name": "Rust",
+        "rgb": "B31004",
+        "isTransparent": false
+    },
+    {
+        "_id": 226,
+        "name": "Bright Light Yellow",
+        "rgb": "FFF03A",
+        "isTransparent": false
+    },
+    {
+        "_id": 230,
+        "name": "Trans-Pink",
+        "rgb": "E4ADC8",
+        "isTransparent": true
+    },
+    {
+        "_id": 232,
+        "name": "Sky Blue",
+        "rgb": "7DBFDD",
+        "isTransparent": false
+    },
+    {
+        "_id": 236,
+        "name": "Trans-Light Purple",
+        "rgb": "96709F",
+        "isTransparent": true
+    },
+    {
+        "_id": 272,
+        "name": "Dark Blue",
+        "rgb": "0A3463",
+        "isTransparent": false
+    },
+    {
+        "_id": 288,
+        "name": "Dark Green",
+        "rgb": "184632",
+        "isTransparent": false
+    },
+    {
+        "_id": 294,
+        "name": "Glow In Dark Trans",
+        "rgb": "BDC6AD",
+        "isTransparent": true
+    },
+    {
+        "_id": 297,
+        "name": "Pearl Gold",
+        "rgb": "AA7F2E",
+        "isTransparent": false
+    },
+    {
+        "_id": 308,
+        "name": "Dark Brown",
+        "rgb": "352100",
+        "isTransparent": false
+    },
+    {
+        "_id": 313,
+        "name": "Maersk Blue",
+        "rgb": "3592C3",
+        "isTransparent": false
+    },
+    {
+        "_id": 320,
+        "name": "Dark Red",
+        "rgb": "720E0F",
+        "isTransparent": false
+    },
+    {
+        "_id": 321,
+        "name": "Dark Azure",
+        "rgb": "078BC9",
+        "isTransparent": false
+    },
+    {
+        "_id": 322,
+        "name": "Medium Azure",
+        "rgb": "36AEBF",
+        "isTransparent": false
+    },
+    {
+        "_id": 323,
+        "name": "Light Aqua",
+        "rgb": "ADC3C0",
+        "isTransparent": false
+    },
+    {
+        "_id": 326,
+        "name": "Olive Green",
+        "rgb": "9B9A5A",
+        "isTransparent": false
+    },
+    {
+        "_id": 334,
+        "name": "Chrome Gold",
+        "rgb": "BBA53D",
+        "isTransparent": false
+    },
+    {
+        "_id": 335,
+        "name": "Sand Red",
+        "rgb": "D67572",
+        "isTransparent": false
+    },
+    {
+        "_id": 351,
+        "name": "Medium Dark Pink",
+        "rgb": "F785B1",
+        "isTransparent": false
+    },
+    {
+        "_id": 366,
+        "name": "Earth Orange",
+        "rgb": "FA9C1C",
+        "isTransparent": false
+    },
+    {
+        "_id": 373,
+        "name": "Sand Purple",
+        "rgb": "8.45E+86",
+        "isTransparent": false
+    },
+    {
+        "_id": 378,
+        "name": "Sand Green",
+        "rgb": "A0BCAC",
+        "isTransparent": false
+    },
+    {
+        "_id": 379,
+        "name": "Sand Blue",
+        "rgb": "6074A1",
+        "isTransparent": false
+    },
+    {
+        "_id": 383,
+        "name": "Chrome Silver",
+        "rgb": "E0E0E0",
+        "isTransparent": false
+    },
+    {
+        "_id": 450,
+        "name": "Fabuland Brown",
+        "rgb": "B67B50",
+        "isTransparent": false
+    },
+    {
+        "_id": 462,
+        "name": "Medium Orange",
+        "rgb": "FFA70B",
+        "isTransparent": false
+    },
+    {
+        "_id": 484,
+        "name": "Dark Orange",
+        "rgb": "A95500",
+        "isTransparent": false
+    },
+    {
+        "_id": 503,
+        "name": "Very Light Gray",
+        "rgb": "E6E3DA",
+        "isTransparent": false
+    },
+    {
+        "_id": 1000,
+        "name": "Glow in Dark White",
+        "rgb": "D9D9D9",
+        "isTransparent": false
+    },
+    {
+        "_id": 1001,
+        "name": "Medium Violet",
+        "rgb": "9.39E+07",
+        "isTransparent": false
+    },
+    {
+        "_id": 1002,
+        "name": "Glitter Trans-Neon Green",
+        "rgb": "C0F500",
+        "isTransparent": true
+    },
+    {
+        "_id": 1003,
+        "name": "Glitter Trans-Light Blue",
+        "rgb": "68BCC5",
+        "isTransparent": true
+    },
+    {
+        "_id": 1004,
+        "name": "Trans-Flame Yellowish Orange",
+        "rgb": "FCB76D",
+        "isTransparent": true
+    },
+    {
+        "_id": 1005,
+        "name": "Trans-Fire Yellow",
+        "rgb": "FBE890",
+        "isTransparent": true
+    },
+    {
+        "_id": 1006,
+        "name": "Trans-Light Royal Blue",
+        "rgb": "B4D4F7",
+        "isTransparent": true
+    },
+    {
+        "_id": 1007,
+        "name": "Reddish Lilac",
+        "rgb": "8E5597",
+        "isTransparent": false
+    },
+    {
+        "_id": 1008,
+        "name": "Vintage Blue",
+        "rgb": "039CBD",
+        "isTransparent": false
+    },
+    {
+        "_id": 1009,
+        "name": "Vintage Green",
+        "rgb": "1E601E",
+        "isTransparent": false
+    },
+    {
+        "_id": 1010,
+        "name": "Vintage Red",
+        "rgb": "CA1F08",
+        "isTransparent": false
+    },
+    {
+        "_id": 1011,
+        "name": "Vintage Yellow",
+        "rgb": "F3C305",
+        "isTransparent": false
+    },
+    {
+        "_id": 1012,
+        "name": "Fabuland Orange",
+        "rgb": "EF9121",
+        "isTransparent": false
+    },
+    {
+        "_id": 1013,
+        "name": "Modulex White",
+        "rgb": "F4F4F4",
+        "isTransparent": false
+    },
+    {
+        "_id": 1014,
+        "name": "Modulex Light Bluish Gray",
+        "rgb": "AfB5C7",
+        "isTransparent": false
+    },
+    {
+        "_id": 1015,
+        "name": "Modulex Light Gray",
+        "rgb": "9C9C9C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1016,
+        "name": "Modulex Charcoal Gray",
+        "rgb": "595D60",
+        "isTransparent": false
+    },
+    {
+        "_id": 1017,
+        "name": "Modulex Tile Gray",
+        "rgb": "6B5A5A",
+        "isTransparent": false
+    },
+    {
+        "_id": 1018,
+        "name": "Modulex Black",
+        "rgb": "4D4C52",
+        "isTransparent": false
+    },
+    {
+        "_id": 1019,
+        "name": "Modulex Tile Brown",
+        "rgb": "330000",
+        "isTransparent": false
+    },
+    {
+        "_id": 1020,
+        "name": "Modulex Terracotta",
+        "rgb": "5C5030",
+        "isTransparent": false
+    },
+    {
+        "_id": 1021,
+        "name": "Modulex Brown",
+        "rgb": "907450",
+        "isTransparent": false
+    },
+    {
+        "_id": 1022,
+        "name": "Modulex Buff",
+        "rgb": "DEC69C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1023,
+        "name": "Modulex Red",
+        "rgb": "B52C20",
+        "isTransparent": false
+    },
+    {
+        "_id": 1024,
+        "name": "Modulex Pink Red",
+        "rgb": "F45C40",
+        "isTransparent": false
+    },
+    {
+        "_id": 1025,
+        "name": "Modulex Orange",
+        "rgb": "F47B30",
+        "isTransparent": false
+    },
+    {
+        "_id": 1026,
+        "name": "Modulex Light Orange",
+        "rgb": "F7AD63",
+        "isTransparent": false
+    },
+    {
+        "_id": 1027,
+        "name": "Modulex Light Yellow",
+        "rgb": "FFE371",
+        "isTransparent": false
+    },
+    {
+        "_id": 1028,
+        "name": "Modulex Ochre Yellow",
+        "rgb": "FED557",
+        "isTransparent": false
+    },
+    {
+        "_id": 1029,
+        "name": "Modulex Lemon",
+        "rgb": "BDC618",
+        "isTransparent": false
+    },
+    {
+        "_id": 1030,
+        "name": "Modulex Pastel Green",
+        "rgb": "7DB538",
+        "isTransparent": false
+    },
+    {
+        "_id": 1031,
+        "name": "Modulex Olive Green",
+        "rgb": "7C9051",
+        "isTransparent": false
+    },
+    {
+        "_id": 1032,
+        "name": "Modulex Aqua Green",
+        "rgb": "27867E",
+        "isTransparent": false
+    },
+    {
+        "_id": 1033,
+        "name": "Modulex Teal Blue",
+        "rgb": "467083",
+        "isTransparent": false
+    },
+    {
+        "_id": 1034,
+        "name": "Modulex Tile Blue",
+        "rgb": "0057A6",
+        "isTransparent": false
+    },
+    {
+        "_id": 1035,
+        "name": "Modulex Medium Blue",
+        "rgb": "61AFFF",
+        "isTransparent": false
+    },
+    {
+        "_id": 1036,
+        "name": "Modulex Pastel Blue",
+        "rgb": "68AECE",
+        "isTransparent": false
+    },
+    {
+        "_id": 1037,
+        "name": "Modulex Violet",
+        "rgb": "BD7D85",
+        "isTransparent": false
+    },
+    {
+        "_id": 1038,
+        "name": "Modulex Pink",
+        "rgb": "F785B1",
+        "isTransparent": false
+    },
+    {
+        "_id": 1039,
+        "name": "Modulex Clear",
+        "rgb": "FFFFFF",
+        "isTransparent": false
+    },
+    {
+        "_id": 1040,
+        "name": "Modulex Foil Dark Gray",
+        "rgb": "595D60",
+        "isTransparent": false
+    },
+    {
+        "_id": 1041,
+        "name": "Modulex Foil Light Gray",
+        "rgb": "9C9C9C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1042,
+        "name": "Modulex Foil Dark Green",
+        "rgb": "6400",
+        "isTransparent": false
+    },
+    {
+        "_id": 1043,
+        "name": "Modulex Foil Light Green",
+        "rgb": "7DB538",
+        "isTransparent": false
+    },
+    {
+        "_id": 1044,
+        "name": "Modulex Foil Dark Blue",
+        "rgb": "0057A6",
+        "isTransparent": false
+    },
+    {
+        "_id": 1045,
+        "name": "Modulex Foil Light Blue",
+        "rgb": "68AECE",
+        "isTransparent": false
+    },
+    {
+        "_id": 1046,
+        "name": "Modulex Foil Violet",
+        "rgb": "4B0082",
+        "isTransparent": false
+    },
+    {
+        "_id": 1047,
+        "name": "Modulex Foil Red",
+        "rgb": "8B0000",
+        "isTransparent": false
+    },
+    {
+        "_id": 1048,
+        "name": "Modulex Foil Yellow",
+        "rgb": "FED557",
+        "isTransparent": false
+    },
+    {
+        "_id": 1049,
+        "name": "Modulex Foil Orange",
+        "rgb": "F7AD63",
+        "isTransparent": false
+    },
+    {
+        "_id": 1050,
+        "name": "Coral",
+        "rgb": "FF698F",
+        "isTransparent": false
+    },
+    {
+        "_id": 1051,
+        "name": "Pastel Blue",
+        "rgb": "5AC4DA",
+        "isTransparent": false
+    },
+    {
+        "_id": 1052,
+        "name": "Glitter Trans-Orange",
+        "rgb": "F08F1C",
+        "isTransparent": true
+    },
+    {
+        "_id": 1053,
+        "name": "Trans-Blue Opal",
+        "rgb": "68BCC5",
+        "isTransparent": true
+    },
+    {
+        "_id": 1054,
+        "name": "Trans-Dark Pink Opal",
+        "rgb": "CE1D9B",
+        "isTransparent": true
+    },
+    {
+        "_id": 1055,
+        "name": "Trans-Clear Opal",
+        "rgb": "FCFCFC",
+        "isTransparent": true
+    },
+    {
+        "_id": 1056,
+        "name": "Trans-Brown Opal",
+        "rgb": "583927",
+        "isTransparent": true
+    },
+    {
+        "_id": 1057,
+        "name": "Trans-Light Bright Green",
+        "rgb": "C9E788",
+        "isTransparent": true
+    },
+    {
+        "_id": 1058,
+        "name": "Trans-Light Green",
+        "rgb": "94E5AB",
+        "isTransparent": true
+    },
+    {
+        "_id": 1059,
+        "name": "Trans-Purple Opal",
+        "rgb": "8320B7",
+        "isTransparent": true
+    },
+    {
+        "_id": 1060,
+        "name": "Trans-Green Opal",
+        "rgb": "84B68D",
+        "isTransparent": true
+    },
+    {
+        "_id": 1061,
+        "name": "Trans-Dark Blue Opal",
+        "rgb": "0020A0",
+        "isTransparent": true
+    },
+    {
+        "_id": 1062,
+        "name": "Vibrant Yellow",
+        "rgb": "EBD800",
+        "isTransparent": false
+    },
+    {
+        "_id": 1063,
+        "name": "Pearl Copper",
+        "rgb": "B46A00",
+        "isTransparent": false
+    },
+    {
+        "_id": 1064,
+        "name": "Fabuland Red",
+        "rgb": "FF8014",
+        "isTransparent": false
+    },
+    {
+        "_id": 1065,
+        "name": "Reddish Gold",
+        "rgb": "AC8247",
+        "isTransparent": false
+    },
+    {
+        "_id": 1066,
+        "name": "Curry",
+        "rgb": "DD982E",
+        "isTransparent": false
+    },
+    {
+        "_id": 1067,
+        "name": "Dark Nougat",
+        "rgb": "AD6140",
+        "isTransparent": false
+    },
+    {
+        "_id": 1068,
+        "name": "Bright Reddish Orange",
+        "rgb": "EE5434",
+        "isTransparent": false
+    },
+    {
+        "_id": 1069,
+        "name": "Pearl Red",
+        "rgb": "D60026",
+        "isTransparent": false
+    },
+    {
+        "_id": 1070,
+        "name": "Pearl Blue",
+        "rgb": "0059A3",
+        "isTransparent": false
+    },
+    {
+        "_id": 1071,
+        "name": "Pearl Green",
+        "rgb": "008E3C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1072,
+        "name": "Pearl Brown",
+        "rgb": "57392C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1073,
+        "name": "Pearl Black",
+        "rgb": "0A1327",
+        "isTransparent": false
+    },
+    {
+        "_id": 1074,
+        "name": "Duplo Blue",
+        "rgb": "009ECE",
+        "isTransparent": false
+    },
+    {
+        "_id": 1075,
+        "name": "Duplo Medium Blue",
+        "rgb": "3E95B6",
+        "isTransparent": false
+    },
+    {
+        "_id": 1076,
+        "name": "Duplo Lime",
+        "rgb": "FFF230",
+        "isTransparent": false
+    },
+    {
+        "_id": 1077,
+        "name": "Fabuland Lime",
+        "rgb": "78FC78",
+        "isTransparent": false
+    },
+    {
+        "_id": 1078,
+        "name": "Duplo Medium Green",
+        "rgb": "468A5F",
+        "isTransparent": false
+    },
+    {
+        "_id": 1079,
+        "name": "Duplo Light Green",
+        "rgb": "60BA76",
+        "isTransparent": false
+    },
+    {
+        "_id": 1080,
+        "name": "Light Tan",
+        "rgb": "F3C988",
+        "isTransparent": false
+    },
+    {
+        "_id": 1081,
+        "name": "Rust Orange",
+        "rgb": "872B17",
+        "isTransparent": false
+    },
+    {
+        "_id": 1082,
+        "name": "Clikits Pink",
+        "rgb": "FE78B0",
+        "isTransparent": false
+    },
+    {
+        "_id": 1083,
+        "name": "Two-tone Copper",
+        "rgb": "945148",
+        "isTransparent": false
+    },
+    {
+        "_id": 1084,
+        "name": "Two-tone Gold",
+        "rgb": "AB673A",
+        "isTransparent": false
+    },
+    {
+        "_id": 1085,
+        "name": "Two-tone Silver",
+        "rgb": "737271",
+        "isTransparent": false
+    },
+    {
+        "_id": 1086,
+        "name": "Pearl Lime",
+        "rgb": "6A7944",
+        "isTransparent": false
+    },
+    {
+        "_id": 1087,
+        "name": "Duplo Pink",
+        "rgb": "FF879C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1088,
+        "name": "Medium Brown",
+        "rgb": "755945",
+        "isTransparent": false
+    },
+    {
+        "_id": 1089,
+        "name": "Warm Tan",
+        "rgb": "CCA373",
+        "isTransparent": false
+    },
+    {
+        "_id": 1090,
+        "name": "Duplo Turquoise",
+        "rgb": "3FB69E",
+        "isTransparent": false
+    },
+    {
+        "_id": 1091,
+        "name": "Warm Yellowish Orange",
+        "rgb": "FFCB78",
+        "isTransparent": false
+    },
+    {
+        "_id": 1092,
+        "name": "Metallic Copper",
+        "rgb": "764D3B",
+        "isTransparent": false
+    },
+    {
+        "_id": 1093,
+        "name": "Light Lilac",
+        "rgb": "9195CA",
+        "isTransparent": false
+    },
+    {
+        "_id": 1094,
+        "name": "Trans-Medium Purple",
+        "rgb": "8D73B3",
+        "isTransparent": false
+    },
+    {
+        "_id": 1095,
+        "name": "Trans-Black",
+        "rgb": "635F52",
+        "isTransparent": true
+    },
+    {
+        "_id": 1096,
+        "name": "Glitter Trans-Bright Green",
+        "rgb": "D9E4A7",
+        "isTransparent": true
+    },
+    {
+        "_id": 1097,
+        "name": "Glitter Trans-Medium Purple",
+        "rgb": "8D73B3",
+        "isTransparent": true
+    },
+    {
+        "_id": 1098,
+        "name": "Glitter Trans-Green",
+        "rgb": "84B68D",
+        "isTransparent": true
+    },
+    {
+        "_id": 1099,
+        "name": "Glitter Trans-Pink",
+        "rgb": "E4ADC8",
+        "isTransparent": true
+    },
+    {
+        "_id": 1100,
+        "name": "Clikits Yellow",
+        "rgb": "FFCF0B",
+        "isTransparent": false
+    },
+    {
+        "_id": 1101,
+        "name": "Duplo Dark Purple",
+        "rgb": "5F27AA",
+        "isTransparent": false
+    },
+    {
+        "_id": 1102,
+        "name": "Trans-Neon Red",
+        "rgb": "FF0040",
+        "isTransparent": true
+    },
+    {
+        "_id": 1103,
+        "name": "Pearl Titanium",
+        "rgb": "3E3C39",
+        "isTransparent": false
+    },
+    {
+        "_id": 1104,
+        "name": "HO Aqua",
+        "rgb": "B3D7D1",
+        "isTransparent": false
+    },
+    {
+        "_id": 1105,
+        "name": "HO Azure",
+        "rgb": "1591cb",
+        "isTransparent": false
+    },
+    {
+        "_id": 1106,
+        "name": "HO Blue-gray",
+        "rgb": "354e5a",
+        "isTransparent": false
+    },
+    {
+        "_id": 1107,
+        "name": "HO Cyan",
+        "rgb": "5b98b3",
+        "isTransparent": false
+    },
+    {
+        "_id": 1108,
+        "name": "HO Dark Aqua",
+        "rgb": "a7dccf",
+        "isTransparent": false
+    },
+    {
+        "_id": 1109,
+        "name": "HO Dark Blue",
+        "rgb": "0A3463",
+        "isTransparent": false
+    },
+    {
+        "_id": 1110,
+        "name": "HO Dark Gray",
+        "rgb": "6D6E5C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1111,
+        "name": "HO Dark Green",
+        "rgb": "184632",
+        "isTransparent": false
+    },
+    {
+        "_id": 1112,
+        "name": "HO Dark Lime",
+        "rgb": "b2b955",
+        "isTransparent": false
+    },
+    {
+        "_id": 1113,
+        "name": "HO Dark Red",
+        "rgb": "631314",
+        "isTransparent": false
+    },
+    {
+        "_id": 1114,
+        "name": "HO Dark Sand Green",
+        "rgb": "627a62",
+        "isTransparent": false
+    },
+    {
+        "_id": 1115,
+        "name": "HO Dark Turquoise",
+        "rgb": "10929d",
+        "isTransparent": false
+    },
+    {
+        "_id": 1116,
+        "name": "HO Earth Orange",
+        "rgb": "bb771b",
+        "isTransparent": false
+    },
+    {
+        "_id": 1117,
+        "name": "HO Gold",
+        "rgb": "b4a774",
+        "isTransparent": false
+    },
+    {
+        "_id": 1118,
+        "name": "HO Light Aqua",
+        "rgb": "a3d1c0",
+        "isTransparent": false
+    },
+    {
+        "_id": 1119,
+        "name": "HO Light Brown",
+        "rgb": "965336",
+        "isTransparent": false
+    },
+    {
+        "_id": 1120,
+        "name": "HO Light Gold",
+        "rgb": "cdc298",
+        "isTransparent": false
+    },
+    {
+        "_id": 1121,
+        "name": "HO Light Tan",
+        "rgb": "f9f1c7",
+        "isTransparent": false
+    },
+    {
+        "_id": 1122,
+        "name": "HO Light Yellow",
+        "rgb": "f5fab7",
+        "isTransparent": false
+    },
+    {
+        "_id": 1123,
+        "name": "HO Medium Blue",
+        "rgb": "7396c8",
+        "isTransparent": false
+    },
+    {
+        "_id": 1124,
+        "name": "HO Medium Red",
+        "rgb": "c01111",
+        "isTransparent": false
+    },
+    {
+        "_id": 1125,
+        "name": "HO Metallic Blue",
+        "rgb": "0d4763",
+        "isTransparent": false
+    },
+    {
+        "_id": 1126,
+        "name": "HO Metallic Dark Gray",
+        "rgb": "5e5e5e",
+        "isTransparent": false
+    },
+    {
+        "_id": 1127,
+        "name": "HO Metallic Green",
+        "rgb": "879867",
+        "isTransparent": false
+    },
+    {
+        "_id": 1128,
+        "name": "HO Metallic Sand Blue",
+        "rgb": "5f7d8c",
+        "isTransparent": false
+    },
+    {
+        "_id": 1129,
+        "name": "HO Olive Green",
+        "rgb": "9B9A5A",
+        "isTransparent": false
+    },
+    {
+        "_id": 1130,
+        "name": "HO Rose",
+        "rgb": "d06262",
+        "isTransparent": false
+    },
+    {
+        "_id": 1131,
+        "name": "HO Sand Blue",
+        "rgb": "6e8aa6",
+        "isTransparent": false
+    },
+    {
+        "_id": 1132,
+        "name": "HO Sand Green",
+        "rgb": "A0BCAC",
+        "isTransparent": false
+    },
+    {
+        "_id": 1133,
+        "name": "HO Tan",
+        "rgb": "E4CD9E",
+        "isTransparent": false
+    },
+    {
+        "_id": 1134,
+        "name": "HO Titanium",
+        "rgb": "616161",
+        "isTransparent": false
+    },
+    {
+        "_id": 1135,
+        "name": "Metal",
+        "rgb": "A5ADB4",
+        "isTransparent": false
+    },
+    {
+        "_id": 1136,
+        "name": "Reddish Orange",
+        "rgb": "CA4C0B",
+        "isTransparent": false
+    },
+    {
+        "_id": 1137,
+        "name": "Sienna Brown",
+        "rgb": "915C3C",
+        "isTransparent": false
+    },
+    {
+        "_id": 1138,
+        "name": "Umber Brown",
+        "rgb": "5E3F33",
+        "isTransparent": false
+    },
+    {
+        "_id": 1139,
+        "name": "Trans-Yellow Opal",
+        "rgb": "F5CD2F",
+        "isTransparent": true
+    },
+    {
+        "_id": 9999,
+        "name": "[No Color/Any Color]",
+        "rgb": "05131D",
+        "isTransparent": false
+    }
+]
